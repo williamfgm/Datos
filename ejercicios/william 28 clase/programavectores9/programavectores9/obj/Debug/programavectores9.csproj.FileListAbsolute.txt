@@ -1,0 +1,9 @@
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\bin\Debug\programavectores9.exe.config
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\bin\Debug\programavectores9.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\bin\Debug\programavectores9.pdb
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\obj\Debug\programavectores9.csprojResolveAssemblyReference.cache
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\obj\Debug\programavectores9.exe
+c:\users\aprendiz.soacdprcid7f284\documents\visual studio 2012\Projects\programavectores9\programavectores9\obj\Debug\programavectores9.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\programavectores9\programavectores9\bin\Debug\programavectores9.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\programavectores9\programavectores9\obj\Debug\programavectores9.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\programavectores9\programavectores9\obj\Debug\programavectores9.pdb

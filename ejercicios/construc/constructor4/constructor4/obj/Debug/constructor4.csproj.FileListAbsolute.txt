@@ -1,0 +1,6 @@
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\bin\Debug\constructor4.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\bin\Debug\constructor4.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\bin\Debug\constructor4.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\obj\Debug\constructor4.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\obj\Debug\constructor4.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor4\constructor4\obj\Debug\constructor4.pdb

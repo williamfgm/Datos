@@ -1,0 +1,6 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\bin\Debug\construct.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\obj\Debug\construct.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\bin\Debug\construct.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\bin\Debug\construct.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\obj\Debug\construct.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\construct\construct\obj\Debug\construct.pdb

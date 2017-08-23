@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\bin\Debug\promedio10numeros.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\bin\Debug\promedio10numeros.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\bin\Debug\promedio10numeros.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.Form1.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.Properties.Resources.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\william\promedio10numeros\promedio10numeros\obj\Debug\promedio10numeros.pdb

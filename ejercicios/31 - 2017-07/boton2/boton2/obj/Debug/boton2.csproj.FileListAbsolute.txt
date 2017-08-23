@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\bin\Debug\boton2.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\bin\Debug\boton2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\bin\Debug\boton2.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\obj\Debug\boton2.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\obj\Debug\boton2.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\obj\Debug\boton2.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\obj\Debug\boton2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\boton2\boton2\obj\Debug\boton2.pdb

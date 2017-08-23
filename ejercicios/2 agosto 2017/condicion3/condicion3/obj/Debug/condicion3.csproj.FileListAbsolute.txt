@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\bin\Debug\condicion3.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\bin\Debug\condicion3.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\bin\Debug\condicion3.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\obj\Debug\condicion3.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\obj\Debug\condicion3.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\obj\Debug\condicion3.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\obj\Debug\condicion3.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicion3\condicion3\obj\Debug\condicion3.pdb

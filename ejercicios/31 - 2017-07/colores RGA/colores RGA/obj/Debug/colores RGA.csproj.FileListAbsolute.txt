@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\bin\Debug\colores RGA.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\bin\Debug\colores RGA.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\bin\Debug\colores RGA.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\obj\Debug\colores_RGA.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\obj\Debug\colores_RGA.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\obj\Debug\colores RGA.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\obj\Debug\colores RGA.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\colores RGA\colores RGA\obj\Debug\colores RGA.pdb

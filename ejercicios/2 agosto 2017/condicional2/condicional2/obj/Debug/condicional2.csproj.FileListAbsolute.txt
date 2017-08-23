@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\bin\Debug\condicional2.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\bin\Debug\condicional2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\bin\Debug\condicional2.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\condicional2\condicional2\obj\Debug\condicional2.pdb

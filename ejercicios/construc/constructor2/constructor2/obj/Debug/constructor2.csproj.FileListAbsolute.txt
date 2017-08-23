@@ -1,0 +1,6 @@
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\bin\Debug\constructor2.exe.config
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\bin\Debug\constructor2.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\bin\Debug\constructor2.pdb
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\obj\Debug\constructor2.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\obj\Debug\constructor2.exe
+c:\users\aprendiz\documents\visual studio 2012\Projects\constructor2\constructor2\obj\Debug\constructor2.pdb

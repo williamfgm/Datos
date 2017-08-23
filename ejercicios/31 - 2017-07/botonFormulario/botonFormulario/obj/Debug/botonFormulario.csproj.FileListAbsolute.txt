@@ -1,0 +1,9 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\bin\Debug\botonFormulario.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\bin\Debug\botonFormulario.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\bin\Debug\botonFormulario.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\botonFormulario\botonFormulario\obj\Debug\botonFormulario.pdb

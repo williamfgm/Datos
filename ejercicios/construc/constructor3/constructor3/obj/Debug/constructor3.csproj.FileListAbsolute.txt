@@ -1,0 +1,6 @@
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\bin\Debug\constructor3.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\bin\Debug\constructor3.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\bin\Debug\constructor3.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\obj\Debug\constructor3.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\obj\Debug\constructor3.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2012\Projects\william\constructor3\constructor3\obj\Debug\constructor3.pdb

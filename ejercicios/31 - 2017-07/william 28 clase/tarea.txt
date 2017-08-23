@@ -1,0 +1,14 @@
+un zoologo pretende determinar el % de animales que hay en las siguientes 3 categorias 
+de edades:
+de 0 a 1 año , de mas de un año y menos de 3  o  de 3 o mas años el zoologico aun no esta deguro del animal que va a 
+estudiar 
+
+si se  decide por elefanres 
+solo tomara 1 muestra de 20 de ellos; 
+si se decide por las jirafas tomara 15 muestras y 
+si son chimpances tomara 40 muestras 
+
+
+0 a 1 año
+
+de mas de un año y menos de 3  o  de 3 o mas años

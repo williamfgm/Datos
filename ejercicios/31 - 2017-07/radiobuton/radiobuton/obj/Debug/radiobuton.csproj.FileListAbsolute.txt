@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\bin\Debug\radiobuton.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\bin\Debug\radiobuton.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\bin\Debug\radiobuton.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\obj\Debug\radiobuton.resolucion.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\obj\Debug\radiobuton.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\obj\Debug\radiobuton.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\obj\Debug\radiobuton.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\radiobuton\radiobuton\obj\Debug\radiobuton.pdb

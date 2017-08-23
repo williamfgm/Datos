@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\ejercicio15\ejercicio15\bin\Debug\ejercicio15.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\bin\Debug\ejercicio15.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\bin\Debug\ejercicio15.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\obj\Debug\ejercicio15.Form1.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\obj\Debug\ejercicio15.Properties.Resources.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\obj\Debug\ejercicio15.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\obj\Debug\ejercicio15.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\ejercicio15\ejercicio15\obj\Debug\ejercicio15.pdb

@@ -1,0 +1,8 @@
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\bin\Debug\aleatorio.exe.config
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\bin\Debug\aleatorio.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\bin\Debug\aleatorio.pdb
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\obj\Debug\aleatorio.Form1.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\obj\Debug\aleatorio.Properties.Resources.resources
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\obj\Debug\aleatorio.csproj.GenerateResource.Cache
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\obj\Debug\aleatorio.exe
+c:\users\aprendiz\documents\visual studio 2015\Projects\aleatorio\aleatorio\obj\Debug\aleatorio.pdb

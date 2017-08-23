@@ -1,0 +1,9 @@
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\bin\Debug\mayor menor o igual.exe.config
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\bin\Debug\mayor menor o igual.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\bin\Debug\mayor menor o igual.pdb
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor menor o igual.csprojResolveAssemblyReference.cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor_menor_o_igual.Form1.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor_menor_o_igual.Properties.Resources.resources
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor menor o igual.csproj.GenerateResource.Cache
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor menor o igual.exe
+C:\Users\APRENDIZ\Documents\Visual Studio 2015\Projects\1 agosto\mayor menor o igual\mayor menor o igual\obj\Debug\mayor menor o igual.pdb
